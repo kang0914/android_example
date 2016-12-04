@@ -46,7 +46,8 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHo
                                 "Chapter Five",
                                 "Chapter Six",
                                 "Chapter Seven",
-                                "Chapter Eight"
+                                "Chapter Eight",
+            "Chapter Nine",
     };
 
     private String[] details = {"Item one details",
